@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="compare_json_test.JSON_TEST" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-02-25T21:22:20" hostname="mbp-de-cristian" time="0.02">
+  <properties/>
+  <testcase name="testCaseA()" classname="compare_json_test.JSON_TEST" time="0.016"/>
+  <testcase name="testCaseB()" classname="compare_json_test.JSON_TEST" time="0.003"/>
+  <testcase name="testCaseC()" classname="compare_json_test.JSON_TEST" time="0.001"/>
+  <system-out><![CDATA[Los valores no son iguales en el atributo: "Nombre"
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
